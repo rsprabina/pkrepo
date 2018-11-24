@@ -2,4 +2,10 @@ update.txt
 
 completed collection,multithreading and string.
 git and github is completed
-target is SpringCore
+target is SpringCore.
+Hibernate is updated
+Restful services is added
+
+
+Thanks:)
+
