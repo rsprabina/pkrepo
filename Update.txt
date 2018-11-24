@@ -1,3 +1,4 @@
 update.txt
 
-completed collection,multithreading and string
+completed collection,multithreading and string.
+git and github is completed
